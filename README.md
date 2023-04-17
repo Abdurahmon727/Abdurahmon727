@@ -3,7 +3,7 @@
 
 **I am Abdurakhmon Dedamirzaev, mobile application developer and student at Inha university in Tashkent**
 
-- 🔭 I’m currently working on recipe app
+- 🔭 I’m currently working on dectionary app
 - 🌱 I’m currently learning linked routing(deeplink) and dynamic links
 - 🤔 I’m looking for a new role
 - 📫 How to reach me: https://t.me/abdurahmon_dedamirzaev
