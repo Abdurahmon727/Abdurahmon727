@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 
 **I am Abdurakhmon Dedamirzaev, mobile application developer and student at Inha university in Tashkent**
