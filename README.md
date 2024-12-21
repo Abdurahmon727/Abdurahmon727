@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently busy with exploring new technologies like jetpack compose
 - 🌱 I’m currently learning native mobile application development
-- 🤔 I’m looking for a new role
+- 🤔 Open for opportunities
 - 📫 How to reach me: https://t.me/abdurahmon_dedamirzaev
 - ⚡ Fun fact: You can't see your nose
 
